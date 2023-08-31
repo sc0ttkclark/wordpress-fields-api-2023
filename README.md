@@ -36,34 +36,65 @@ these areas are entirely separate and some are hardcoded within WordPress itself
 * Widgets (classic)
     * Widget form
 
-## The Team
+## Current Contributors
 
-* [@sc0ttkclark](https://profiles.wordpress.org/sc0ttkclark/) – Scott Kingsley Clark
-    * Senior Software Engineer at Pagely / GoDaddy
-    * Lead Developer of the Pods Framework
-    * Previously Co-Lead of the Fields API project from 2013-2016
-      with [@ericlewis](https://profiles.wordpress.org/ericlewis/) and then Lead Developer from 2016-2017
-* [@borkweb](https://profiles.wordpress.org/borkweb/) – Matthew Batchelder
-    * Been working with WordPress since ~2004
-    * Worked with The Events Calendar and now Director of Engineering at StellarWP overseeing their products and
-      initiatives
-* [@joedolson](https://profiles.wordpress.org/joedolson/) – Joe Dolson
-    * Contributing to WordPress since about 2006
-    * WP Core Committer
-    * Working on the Accessibility team
-    * Reached out to Scott about Fields API from the perspective of improving accessibility for the Settings page
-* [@jason\_the\_adams](https://profiles.wordpress.org/jason_the_adams/) – Jason Adams
-    * Manager of Development at GiveWP
-    * Matt and him want to get together about how to help create unified libraries for multiple projects across
-      StellarWP and other companies
-    * GiveWP has it's own Field API that it's been pushing forward as well
-* [@peteringersoll](https://profiles.wordpress.org/peteringersoll/) – Peter Ingersoll
-    * Worked with WP for about 10 years
-    * Not a developer but a user/self-titled user advocate
-    * Coming at this as a perspective as a user who is interested in how this will work
+* @sc0ttkclark ([.org profile](https://profiles.wordpress.org/sc0ttkclark/)) – Scott Kingsley Clark
+  * Senior Software Engineer at Pagely / GoDaddy
+  * Lead Developer of the Pods Framework
+  * Previously Co-Lead of the Fields API project from 2013-2016 and then Lead Developer since 2016
+* @joedolson ([.org profile](https://profiles.wordpress.org/joedolson/)) – Joe Dolson
+  * WP Core Committer
+  * Working on the Accessibility team
+  * Sponsored by GoDaddy for WP contributions
+* @cr0ybot ([.org profile](https://profiles.wordpress.org/cr0ybot/)) – Cory Hughart
+  * Lead Technologist & host of In The Loop podcast at Blackbird Digital
+* @ohryan ([.org profile](https://profiles.wordpress.org/ohryan/)) – Ryan Neudorf
+  * Senior Software Engineer at GoDaddy (Managed WooCommerce)
+* @alexstandiford ([.org profile](https://profiles.wordpress.org/alexstandiford/)) – Alex Standiford
+  * WordPress Plugin Developer
+* @lauriewood ([.org profile](https://profiles.wordpress.org/lauriewood/)) – Laurie Wood
+  * Chief Product Officer at Arena
+* @codearachnid ([.org profile](https://profiles.wordpress.org/codearachnid/)) – Timothy Wood
+  * Co-Founder, Chief Solutions Architect at Always Curious
+* @wvega ([.org profile](https://profiles.wordpress.org/wvega/)) – Willington Vega
+  * Senior Software Engineer at GoDaddy
+
+## Other Collaborators
+
+We enjoy the benefits of having other collaborators involved with Fields API who have helped provide additional context with their own experiences and projects. They deserve credit for helping restart the Fields API project in 2023 to it's current form.
+
+* @borkweb ([.org profile](https://profiles.wordpress.org/borkweb/)) – Matthew Batchelder
+  * Director of Engineering at StellarWP
+* @JasonTheAdams ([.org profile](https://profiles.wordpress.org/jason_the_adams/)) – Jason Adams
+  * Manager of Development at GiveWP
+* @peteringersoll ([.org profile](https://profiles.wordpress.org/peteringersoll/)) – Peter Ingersoll
+  * Digital Marketing Consultant and Producer at Ingersoll Interactive
+
+## Past Contributors
+
+If your listing here needs to be adjusted, feel free to PR it to associate your work with sponsored time or add other details like your .org profile link.
+
+* @ericandrewlewis ([.org profile](https://profiles.wordpress.org/ericlewis/)) – Eric Andrew Lewis
+  * Software Engineer at Google
+  * Previously Co-Lead of the Fields API project from 2013-2016
+    with @sc0ttkclark ([.org profile](https://profiles.wordpress.org/sc0ttkclark/))
+* @10up ([.org profile](https://profiles.wordpress.org/10up/)) - 10up Sponsored Time
+  * Contributor: @sc0ttkclark - Scott Kingsley Clark (2014-2016)
+  * Contributor: @technosailor - Aaron Brazell (2014)
+  * Contributor: @tlovett1 - Taylor Lovett (2014)
+* @webdevstudios ([.org profile](https://profiles.wordpress.org/webdevstudios/)) - WebDevStudios Sponsored Time
+  * Contributor: @sc0ttkclark - Scott Kingsley Clark (2013-2014)
+* @felixarntz - Felix Arntz
+* @Zeitguys - Tom Auger
+* @danielbachhuber - Daniel Bachhuber
+* @Ramoonus - Ramon van Belzen
+* @Chrico - Christian Leucht
+* @ymazuz - Yoni Mazuz
+* @ms-studio - Manuel Schmalstieg
+* @danstefancu - Dan - Lucian Ștefancu
 
 ## More Information
 
-You can find out more by looking over the kick-off chat summary:
+You can find out more about the project's history by looking over the #fields-api tag on Make WordPress Core blog:
 
-> [Fields API Kick-off Chat Summary: January 5th, 2023](https://make.wordpress.org/core/2023/01/09/fields-api-kick-off-chat-summary-january-5th-2023/)
+> [#fields-api](https://make.wordpress.org/core/tag/fields-api/)
