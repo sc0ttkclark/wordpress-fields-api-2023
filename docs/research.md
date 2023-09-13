@@ -13,11 +13,11 @@ implementation.
 * [Settings API](research/core/settings-api.md)
 * [Meta Box API](research/core/meta-box-api.md) (Post Types, Media, Comments)
 * [List Tables](research/core/list-tables.md)
-  * Quick Edit
-  * Custom Columns
+  * [Quick Edit](research/core/list-tables.md)
+  * [Custom Columns](research/core/list-tables.md)
 * [Taxonomies](research/core/taxonomies.md)
-    * Add term form
-    * Edit term form (separate from the Add term form in how you work with it)
+    * [Add term form](research/core/taxonomies.md)
+    * [Edit term form](research/core/taxonomies.md) (separate from the Add term form in how you work with it)
 * [Users](research/core/users.md)
     * [User profile / edit form](research/core/user-edit.md)
     * [Add new user form](research/core/user-new.md)
@@ -36,7 +36,6 @@ implementation.
 
 * [Advanced Custom Fields](research/third-party/advanced-custom-fields.md)
 * [Meta Box](research/third-party/meta-box.md)
-* Pods
 
 ## What makes a Fields API?
 
