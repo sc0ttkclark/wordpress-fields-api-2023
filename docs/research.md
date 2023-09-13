@@ -21,6 +21,7 @@ implementation.
 * [Users](research/core/users.md)
     * [User profile / edit form](research/core/user-edit.md)
     * [Add new user form](research/core/user-new.md)
+    * User registration form
 * Media - Media modal
 * Comments - Add new comment (front of site)
 * Block Editor
